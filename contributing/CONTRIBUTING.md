@@ -31,7 +31,7 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 Copyright and Licensing
 -----------------------
 
-Most Fossland open source projects are licensed under the [MIT License](https://opensource.org/licenses/MIT).
+Most Fossland open source projects are licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
 
 Fossland does not require you to assign the copyright of your contributions, you retain the copyright. Fossland does require that you make your contributions available under the MIT License in order for it be included in the main repo.
 
@@ -48,7 +48,7 @@ Licensed under the MIT License, (the "License");
 you may not use this file except in compliance with the License.
 You may obtain a copy of the License at
 
-   https://opensource.org/licenses/MIT
+   https://choosealicense.com/licenses/mit/
 
 Unless required by applicable law or agreed to in writing, software
 distributed under the License is distributed on an "AS IS" BASIS,
