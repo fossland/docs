@@ -74,7 +74,7 @@ This software uses the following open source packages:
 - [musl](https://musl.libc.org/)
 - [make](https://www.kernel.org/doc/html/latest/kbuild/llvm.html)
 - [LLVM](https://llvm.org/)
-- [LINUX](https://www.linux.org/)
+- [LINUX](https://www.kernel.org/)
 - [FreeBSD](https://freebsd.org/)
 - [OpenBSD](https://www.openbsd.org/)
 
